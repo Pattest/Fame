@@ -11,7 +11,7 @@
 		2740A111287467C700263C0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2740A110287467C700263C0F /* ContentView.swift */; };
 		2740A113287467C800263C0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2740A112287467C800263C0F /* Assets.xcassets */; };
 		2740A116287467C800263C0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2740A115287467C800263C0F /* Preview Assets.xcassets */; };
-		2740A11D2874683B00263C0F /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 2740A11C2874683B00263C0F /* Readme.md */; };
+		2740A11F28746B9A00263C0F /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 2740A11E28746B9A00263C0F /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		2740A110287467C700263C0F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2740A112287467C800263C0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2740A115287467C800263C0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2740A11C2874683B00263C0F /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = Readme.md; path = Fame/Readme.md; sourceTree = SOURCE_ROOT; };
+		2740A11E28746B9A00263C0F /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 				2740A10E287467C700263C0F /* FameApp.swift */,
 				2740A110287467C700263C0F /* ContentView.swift */,
 				2740A112287467C800263C0F /* Assets.xcassets */,
-				2740A11C2874683B00263C0F /* Readme.md */,
+				2740A11E28746B9A00263C0F /* Readme.md */,
 				2740A114287467C800263C0F /* Preview Content */,
 			);
 			path = Fame;
@@ -130,7 +130,7 @@
 			files = (
 				2740A116287467C800263C0F /* Preview Assets.xcassets in Resources */,
 				2740A113287467C800263C0F /* Assets.xcassets in Resources */,
-				2740A11D2874683B00263C0F /* Readme.md in Resources */,
+				2740A11F28746B9A00263C0F /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
