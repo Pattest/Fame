@@ -12,8 +12,8 @@ This application asks users to import a picture from their photo library, then a
 
 ### Scope
 
-* Xcode: 13.4.1 (13F100)
-* min iOS: 15.0+ 
+* Xcode: 14.0 beta 2 (14A5229c)
+* min iOS: 16.0+ 
 * Swift: 5.0
 
 ## Documentation
